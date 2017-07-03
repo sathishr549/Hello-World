@@ -1,2 +1,3 @@
+# python simple print statement 
 a = "hello"
 print a
